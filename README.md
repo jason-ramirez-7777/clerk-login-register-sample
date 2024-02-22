@@ -9,9 +9,5 @@ Accessible and customizable components that you can copy and paste into your app
 Visit http://ui.shadcn.com/docs to view the documentation.
 
 ## Contributing
-
 Please read the [contributing guide](/CONTRIBUTING.md).
 
-## License
-
-Licensed under the [MIT license](https://github.com/shadcn/ui/blob/main/LICENSE.md).
